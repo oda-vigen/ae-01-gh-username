@@ -1,6 +1,12 @@
-# ae-01-gh-username
+# Application Exercise - GitHub username
 
-Task: Add your name, GitHub username and a link to your GitHub Pages website to the CSV file in this repository.
+This exercise is part of workshops, undergraduate and graduate courses taught by the Global Health Engineering Group at ETH Zurich. 
+
+## Task 
+
+Add your name, GitHub username and a link to your GitHub Pages website to the CSV file in this repository and issue a pull request.
+
+## Instructions
 
 1. Click on tab-01-participant-list.csv
 2. Click on the pen symbol to start editing mode
